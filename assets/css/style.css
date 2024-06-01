@@ -62,7 +62,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 1rem;
-    animation: spin 10gits linear infinite;
+    animation: spin 10s linear infinite;
 }
 
 @keyframes spin {
